@@ -1,0 +1,21 @@
+name: Publish guide release
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/release.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish initial guide release if absent
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          TARGET_SHA: ${{ github.sha }}
+        run: |
+          if ! gh release view guide-v1.0.0 >/dev/null 2>&1; then
+            gh release create guide-v1.0.0 --target "$TARGET_SHA" --title "Installation guide v1.0.0" --notes "First release of the independent Hoppe Studios installation website: three-step unpacked-extension setup, upstream v1.7.50 download links, archive checksum, troubleshooting, permission notes and search metadata. This releases the guide only. Trade From Chart is a third-party product; its ZIP is not redistributed or runtime-tested. GitHub Pages activation and Google Search Console verification are separate setup steps."
+          fi
