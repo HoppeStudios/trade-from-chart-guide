@@ -17,7 +17,7 @@ The website Releases section records the supplied upstream version. Verify the u
 After deployment, verify this URL-prefix property in Google Search Console using the owner’s Google account. Add the provided verification tag to the HTML if requested. Submit https://hoppestudios.github.io/trade-from-chart-guide/sitemap.xml and request indexing for the homepage. Indexing is Google’s decision; metadata and a sitemap alone are not a submission receipt.
 
 ## Support
-Ko-fi is intentionally not linked until the owner has created and verified the Hoppe Studios page. See KOFI-SETUP.md for prepared copy. Donations support Hoppe Studios’ independent work, not third-party extension licensing.
+Support Hoppe Studios at https://ko-fi.com/hoppestudios. The owner confirmed that the page is set up. Donations support Hoppe Studios’ independent work, not third-party extension licensing. This repository does not claim payment processing has been tested.
 
 ## Verification scope
 The archive manifest and selected integration files were inspected without execution. The guide does not claim the extension is safe, complete or runtime-tested. Test installation and operation on a demo trading account before live use.
