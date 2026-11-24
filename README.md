@@ -1,5 +1,13 @@
 # Trade From Chart installation guide
 
+[![Donate on Ko-fi](.github/assets/donate-ko-fi.svg)](https://ko-fi.com/hoppestudios)
+
+### [Donate to Hoppe Studios on Ko-fi →](https://ko-fi.com/hoppestudios)
+
+Optional donations support Hoppe Studios’ independent tools and documentation—not a Trade From Chart license.
+
+**[Website](https://hoppestudios.github.io/trade-from-chart-guide/)** · **[Download v1.7.50](https://cdn.tradefromchart.com/TFC_v1.7.50_24.11.26_M4T.zip)** · **[Installation guide](https://hoppestudios.github.io/trade-from-chart-guide/#install)** · **[Releases](https://github.com/HoppeStudios/trade-from-chart-guide/releases)**
+
 Independent Hoppe Studios guide for the supplied Trade From Chart / Made4Trading v1.7.50 ZIP. Not affiliated with the publisher. No third-party extension binaries or source are redistributed.
 
 ## Website
