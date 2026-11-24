@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hoppestudios.github.io/trade-from-chart-guide/sitemap.xml
