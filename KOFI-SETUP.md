@@ -1,6 +1,6 @@
-# Hoppe Studios — Ko-fi page draft
+# Hoppe Studios — Ko-fi page
 
-Status: prepared copy only. The connected browser requires Ko-fi sign-in; no account, handle or donation destination has been created or verified.
+Status: the owner confirmed that the page is set up at https://ko-fi.com/hoppestudios. The website now links to this exact destination. Payment processing has not been independently tested. The copy and setup checklist below are retained as reference, not a claim that each setting has been applied.
 
 - Display name: **Hoppe Studios**
 - Preferred handle, subject to availability: **hoppestudios**
