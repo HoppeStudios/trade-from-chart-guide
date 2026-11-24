@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="36" viewBox="0 0 680 36" role="img" aria-labelledby="title desc">
+  <title id="title">Guide project facts</title>
+  <desc id="desc">Guide v1.0.0; static HTML/CSS/JS; MIT guide-source; GitHub Pages. Descriptive labels, not live status or security indicators.</desc>
+  <g stroke="#375c50">
+    <rect x="1" y="1" width="147" height="34" rx="8" fill="#102522"/>
+    <rect x="157" y="1" width="204" height="34" rx="8" fill="#102522"/>
+    <rect x="370" y="1" width="158" height="34" rx="8" fill="#102522"/>
+    <rect x="537" y="1" width="142" height="34" rx="8" fill="#102522"/>
+  </g>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+    <text x="74.5" y="23" fill="#e5fba6">guide v1.0.0</text>
+    <text x="259" y="23" fill="#a7f3cf">static HTML/CSS/JS</text>
+    <text x="449" y="23" fill="#e5fba6">MIT guide-source</text>
+    <text x="608" y="23" fill="#a7f3cf">GitHub Pages</text>
+  </g>
+</svg>
