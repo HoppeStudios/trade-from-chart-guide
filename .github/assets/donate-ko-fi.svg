@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="68" viewBox="0 0 340 68" role="img" aria-labelledby="title desc">
+  <title id="title">Donate to Hoppe Studios on Ko-fi</title>
+  <desc id="desc">Optional support for independent tools and documentation.</desc>
+  <rect x="5" y="5" width="333" height="61" rx="9" fill="#102522"/>
+  <rect x="1" y="1" width="333" height="61" rx="9" fill="#ff5e5b" stroke="#102522" stroke-width="2"/>
+  <text x="167" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800" fill="#102522">DONATE ON KO-FI</text>
+</svg>
